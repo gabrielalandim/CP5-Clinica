@@ -7,8 +7,9 @@ Projeto do CP5 de *Advanced Business Development with .NET* (FIAP – 2026).
 >
 > 👥 **Integrantes:**
 > - Maria Gabriela Landim Severo – RM565146
-> - Samara Porto – RM559072
-> - Nome Completo – RM00000
+> - Samara Porto Souza – RM559072
+>
+> 📦 **Repositório:** https://github.com/gabrielalandim/CP5-Clinica
 
 ---
 
@@ -128,7 +129,7 @@ Usuários criados automaticamente na primeira execução:
    ```
 
    Na primeira execução as tabelas (`tb_clinica_usuario`, `tb_clinica_paciente`, `tb_clinica_consulta`) e os usuários iniciais são criados automaticamente.
-3. Abra **http://localhost:5080/swagger**.
+3. Abra **http://localhost:5000/swagger**.
 4. `POST /api/auth` com `admin@clinica.com` / `Admin@123` → copie o `jwt` → botão **Authorize** → cole o token.
 
 ### Exemplos de corpo

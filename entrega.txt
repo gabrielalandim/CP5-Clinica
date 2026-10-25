@@ -1,9 +1,8 @@
 CP5 - Advanced Business Development with .NET - Clínica API
 
-Repositório: https://github.com/SEU-USUARIO/CP5-Clinica
-Vídeo: https://youtu.be/XXXXXXXXXXX
+Repositório: https://github.com/gabrielalandim/CP5-Clinica
+Vídeo: COLE_AQUI_O_LINK_DO_VIDEO
 
 Integrantes:
 - Maria Gabriela Landim Severo - RM565146
-- Samara Porto - RM559072
-- Nome Completo 3 - RM00000
+- Samara Porto Souza - RM559072
