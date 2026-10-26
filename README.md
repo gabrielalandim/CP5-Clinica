@@ -7,9 +7,8 @@ Projeto do CP5 de *Advanced Business Development with .NET* (FIAP – 2026).
 >
 > 👥 **Integrantes:**
 > - Maria Gabriela Landim Severo – RM565146
-> - Samara Porto Souza – RM559072
->
-> 📦 **Repositório:** https://github.com/gabrielalandim/CP5-Clinica
+> - Samara Porto – RM559072
+> - Nome Completo – RM00000
 
 ---
 
