@@ -3,7 +3,7 @@
 API RESTful em **ASP.NET Core 8 (Controllers)** para gestão de **pacientes** e **consultas** de uma clínica.
 Projeto do CP5 de *Advanced Business Development with .NET* (FIAP – 2026).
 
-> 🎥 **Vídeo de demonstração:** COLE_AQUI_O_LINK_DO_VIDEO
+> 🎥 **Vídeo de demonstração:** https://youtu.be/AkDoCDo4OYQ
 >
 > 👥 **Integrantes:**
 > - Maria Gabriela Landim Severo – RM565146
