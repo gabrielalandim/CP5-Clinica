@@ -1,7 +1,7 @@
 CP5 - Advanced Business Development with .NET - Clínica API
 
 Repositório: https://github.com/gabrielalandim/CP5-Clinica
-Vídeo: COLE_AQUI_O_LINK_DO_VIDEO
+Vídeo: https://youtu.be/AkDoCDo4OYQ
 
 Integrantes:
 - Maria Gabriela Landim Severo - RM565146
